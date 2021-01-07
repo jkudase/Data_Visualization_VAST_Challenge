@@ -8,7 +8,7 @@
 
 #### System Design
 
-![Dashboard Overview](https://github.com/asu-cse578-f2020/VAST-2017-MC1-Mansi/blob/master/pics/Overview.png)
+![Dashboard Overview](https://github.com/jkudase/Data_Visualization_VAST_Challenge/blob/master/pics/Overview.png)
 
 #### References
  1. Colin   Marquardt   Nicolas   Dufour   Gellért   Gyuris   Bulia   Byak,Jonathan Leighton. 2019.Inkscape tutorial: Tracing bitmaps.  Retrieved Oct 15, 2020 from https://inkscape.org/doc/tutorials/tracing/tutorial-tracing.html
